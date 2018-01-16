@@ -1,0 +1,22 @@
+{
+  "name": "ts2js",
+  "productName": "Simple TS boilerplate",
+  "version": "0.1.0",
+  "description": "A very simple TS quick start tools",
+  "author": {
+    "name": "zaretti",
+    "email": "steve.zaretti@gmail.com"
+  },
+  "homepage": "http://zaretti.be/",
+  "main": "index.ts",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@alexlur/rollup-plugin-typescript": "^1.0.4",
+    "gulp": "^3.9.1",
+    "rollup": "^0.49.3",
+    "typescript": "^2.5.2"
+  }
+}
